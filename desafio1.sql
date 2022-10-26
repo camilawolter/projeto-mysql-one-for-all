@@ -82,7 +82,7 @@ INSERT INTO SpotifyClone.usuario(usuario, idade, plano_id)
     ("Robert Cecil Martin", 58, 1),
     ("Ada Lovelace", 37, 2),
     ("Martin Fowler", 46, 2),
-    ("Sandi Metz", 58, 3),
+    ("Sandi Metz", 58, 2),
     ("Paulo Freire", 19, 3),
     ("Bell Hooks", 26, 3),
     ("Christopher Alexander", 85, 4),
