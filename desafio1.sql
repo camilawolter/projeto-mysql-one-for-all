@@ -44,7 +44,7 @@ DROP DATABASE IF EXISTS SpotifyClone;
     cancao_id INT PRIMARY KEY AUTO_INCREMENT,
     cancao VARCHAR(50) NOT NULL,
     album_id INT NOT NULL,
-    duracao_segundos VARCHAR(50) NOT NULL,
+    duracao_segundos INT NOT NULL,
     FOREIGN KEY (album_id)
         REFERENCES album (album_id)
 )  ENGINE=INNODB;
